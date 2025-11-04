@@ -1,7 +1,7 @@
 gensim
 # catboost
 # sklearn
-scikit-learn
+scikit-learn==1.6.1
 scipy==1.12
 cython
 tqdm
